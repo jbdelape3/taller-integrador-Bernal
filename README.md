@@ -19,3 +19,4 @@ Líneas de código sin función | Quedaba una función comentada (`calcularAntig
 Evento `onclick` embebido en el HTML | Mezclaba estructura (HTML) con comportamiento (JavaScript). | Se quitó del HTML y se asoció el evento desde JavaScript con `addEventListener`. |
 
 Sitio publicado
+taller-integrador.netlify.app
